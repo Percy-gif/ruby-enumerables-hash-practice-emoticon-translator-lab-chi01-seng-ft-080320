@@ -3,6 +3,7 @@
 ## Learning Goals
 
 - Convert data from a file into usable Ruby data structure
+
 - Traverse Hash data to find specific values
 
 ## Background
